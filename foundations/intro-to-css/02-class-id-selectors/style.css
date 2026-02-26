@@ -1,6 +1,6 @@
 .odd-elements {
     background-color: rgb(255,0,0,.5);
-    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .large-text {
