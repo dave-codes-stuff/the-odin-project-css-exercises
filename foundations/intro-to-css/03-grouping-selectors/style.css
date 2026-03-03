@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.first-button, 
+.second-button {
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+.first-button {
+    /*
+        The settings below are the standard HSL settings 
+        for black and white.
+    */
+    background-color: hsl(0,0%,0%); 
+    color: hsl(0,0%,100%);
+}
+
+.second-button {
+    background-color: hsl(60, 100%, 50%);
+
+}
